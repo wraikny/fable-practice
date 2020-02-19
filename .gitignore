@@ -114,3 +114,7 @@ packages/
 
 src/**/[B,b]in/
 src/**/[O,o]bj/
+
+# Fable
+.fable/
+public/bundle.js
